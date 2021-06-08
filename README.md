@@ -1,12 +1,12 @@
-### Hi there, This is Juan Gallino 👋
+## Hi there, This is Juan Gallino 👋
 
-##ABOUT ME
-- I am a software developer, most of my projects are made in Java, but I also know C#.
-- I’m currently working on a cloud development proyect using a microServices infrastracture, Using Docker and Azure Cloud.
-- 
-- 🌱 I’m currently learning front end with React.Js, I have take courses on Udemy and Youtube of HTML, CSS and JavaScript.
-- - 📫 How to reach me: In LinkedIn as https://www.linkedin.com/in/juan-manuel-gallino-a00b90150/
+## ABOUT ME
 
+- I am a software developer from Parana-Entre Rios-Argentina, and most of my projects are made in Java and C#.
+- I’m currently working on a cloud development proyect implementing a microServices infrastracture, using Docker and Azure Cloud.
+- 🌱 I’m currently learning front end development with React.Js, I have take courses on Udemy and Youtube of HTML, CSS and JavaScript.
+-  📫 How to reach me: In LinkedIn as https://www.linkedin.com/in/juan-manuel-gallino-a00b90150/
+- ⚡ Fun fact: Althougt being a tech enthusiast I really enjoy being outside in the nature and doing extreme sports.
 
 
 <!--
